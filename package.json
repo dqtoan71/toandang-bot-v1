@@ -18,7 +18,8 @@
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "vm2": "^3.9.14"
   },
   "devDependencies": {
     "@babel/core": "^7.21.0",
